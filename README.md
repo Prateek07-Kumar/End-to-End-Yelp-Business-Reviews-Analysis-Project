@@ -8,4 +8,4 @@ This project performs a comprehensive analysis of Yelp business data and custome
 The project consists of four main components that work together to ingest, process, and analyze Yelp data:
 **1. Data Preparation and Splitting** **(split.py)**
 
-Purpose: Handle the large 5GB Yelp review dataset by splitting it into manageable chunks.
+**Purpose:** Handle the large 5GB Yelp review dataset by splitting it into manageable chunks.
