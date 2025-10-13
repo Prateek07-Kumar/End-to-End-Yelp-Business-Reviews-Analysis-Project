@@ -12,3 +12,4 @@ The project consists of four main components that work together to ingest, proce
 **Purpose:** Handle the large 5GB Yelp review dataset by splitting it into manageable chunks.
 
 **Process:**
+- Reads the original **yelp_academic_dataset_review.json** file (5GB)
