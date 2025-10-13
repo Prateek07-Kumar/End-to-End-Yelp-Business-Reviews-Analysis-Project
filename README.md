@@ -10,3 +10,5 @@ The project consists of four main components that work together to ingest, proce
 **1. Data Preparation and Splitting** **(split.py)**
 
 **Purpose:** Handle the large 5GB Yelp review dataset by splitting it into manageable chunks.
+
+**Process:**
