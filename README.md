@@ -14,3 +14,4 @@ The project consists of four main components that work together to ingest, proce
 **Process:**
 - Reads the original **yelp_academic_dataset_review.json** file (5GB)
 - Counts total lines in the JSON file to calculate distribution
+- Splits the file into 10 smaller JSON files for easier processing
