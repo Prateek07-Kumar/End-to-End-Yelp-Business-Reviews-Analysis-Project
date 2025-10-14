@@ -24,3 +24,5 @@ Why this step? Large JSON files are difficult to process and upload. Splitting m
 **(analyze_sentiment.ipynb)**
 
 Purpose: Create a Python-based sentiment analysis function in the database.
+
+Key Steps:
