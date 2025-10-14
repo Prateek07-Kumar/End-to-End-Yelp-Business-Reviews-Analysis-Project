@@ -27,3 +27,4 @@ Purpose: Create a Python-based sentiment analysis function in the database.
 
 ### Key Steps:
   - Create a test table with sample reviews containing positive, negative, and neutral language
+  - Develop a User Defined Function (UDF) called analyze_sentiment() using Python and the TextBlob library
