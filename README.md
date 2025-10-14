@@ -19,3 +19,5 @@ The project consists of four main components that work together to ingest, proce
 - Output files are named **split_file_1.json** through **split_file_10.json** and stored in a designated output directory
 
 Why this step? Large JSON files are difficult to process and upload. Splitting makes the data manageable while maintaining individual JSON object integrity (one object per line).
+
+2. Sentiment Analysis Setup
