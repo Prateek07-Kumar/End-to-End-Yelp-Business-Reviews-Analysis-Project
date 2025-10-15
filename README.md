@@ -31,3 +31,4 @@ Purpose: Create a Python-based sentiment analysis function in the database.
   - The function analyzes review text and classifies sentiment into three categories:
       - Positive: Sentiment polarity > 0
       - Neutral: Sentiment polarity = 0
+      - Negative: Sentiment polarity < 0
