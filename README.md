@@ -32,3 +32,5 @@ Purpose: Create a Python-based sentiment analysis function in the database.
       - Positive: Sentiment polarity > 0
       - Neutral: Sentiment polarity = 0
       - Negative: Sentiment polarity < 0
+    
+Technology: Uses TextBlob for natural language processing to determine sentiment polarity scores.
