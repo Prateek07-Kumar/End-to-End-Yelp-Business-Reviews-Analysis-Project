@@ -34,3 +34,6 @@ Purpose: Create a Python-based sentiment analysis function in the database.
       - Negative: Sentiment polarity < 0
     
 Technology: Uses TextBlob for natural language processing to determine sentiment polarity scores.
+
+### 3. Business Data Loading (yelp_businesses.ipynb)
+Purpose: Load and structure Yelp business data from AWS S3.
