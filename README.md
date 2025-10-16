@@ -40,3 +40,4 @@ Technology: Uses TextBlob for natural language processing to determine sentiment
 Purpose: Load and structure Yelp business data from AWS S3.
 
 **Process:**
+  - Create a raw variant table to store JSON data directly from S3
