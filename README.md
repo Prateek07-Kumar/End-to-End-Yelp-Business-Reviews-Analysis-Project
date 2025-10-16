@@ -41,3 +41,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
 
 **Process:**
   - Create a raw variant table to store JSON data directly from S3
+  - Use AWS credentials to access the S3 bucket containing
