@@ -38,3 +38,5 @@ Technology: Uses TextBlob for natural language processing to determine sentiment
 **3. Business Data Loading** **(yelp_businesses.ipynb)**
 
 Purpose: Load and structure Yelp business data from AWS S3.
+
+**Process:**
