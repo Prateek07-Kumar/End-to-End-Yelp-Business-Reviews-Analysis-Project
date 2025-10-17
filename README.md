@@ -44,10 +44,11 @@ Purpose: Load and structure Yelp business data from AWS S3.
   - Use AWS credentials to access the S3 bucket containing
           **yelp_academic_dataset_business.json**
   - Parse the JSON variant data and extract relevant fields into a structured table:
-    - **business_id**(string): Unique business identifier
-    - **name**(string): Business name
-    - **city**(string): City location
-    - **state**(string): State/Province
-    - **review_count** (string): Total number of reviews
-    - **stars**(number): Average rating
-    - **categories**(string): Comma-separated list of business categories
+      - **business_id**(string): Unique business identifier
+      - **name**(string): Business name
+      - **city**(string): City location
+      - **state**(string): State/Province
+      - **review_count** (string): Total number of reviews
+      - **stars**(number): Average rating
+      - **categories**(string): Comma-separated list of business categories
+  - Create the final table tbl_yelp_businesses with 100 sample records
