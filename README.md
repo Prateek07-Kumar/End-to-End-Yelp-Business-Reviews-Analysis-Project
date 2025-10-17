@@ -48,3 +48,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
     - **name**(string): Business name
     - **city**(string): City location
     - **state**(string): State/Province
+    - **review_count**
