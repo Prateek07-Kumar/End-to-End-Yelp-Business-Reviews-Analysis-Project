@@ -45,4 +45,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
           **yelp_academic_dataset_business.json**
   - Parse the JSON variant data and extract relevant fields into a structured table:
     - **business_id**(string): Unique business identifier
-    - **name**
+    - **name**(string): Business name
