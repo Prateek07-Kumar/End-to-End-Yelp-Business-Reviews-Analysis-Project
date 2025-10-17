@@ -51,4 +51,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
       - **review_count** (string): Total number of reviews
       - **stars**(number): Average rating
       - **categories**(string): Comma-separated list of business categories
-  - Create the final table tbl_yelp_businesses with 100 sample records
+  - Create the final table **tbl_yelp_businesses** with 100 sample records
