@@ -50,4 +50,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
     - **state**(string): State/Province
     - **review_count** (string): Total number of reviews
     - **stars**(number): Average rating
-    - **categories**
+    - **categories**(string): Comma-separated list of business categories
