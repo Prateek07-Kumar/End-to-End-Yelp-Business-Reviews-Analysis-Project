@@ -47,4 +47,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
     - **business_id**(string): Unique business identifier
     - **name**(string): Business name
     - **city**(string): City location
-    - **state**
+    - **state**(string): State/Province
