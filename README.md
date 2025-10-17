@@ -46,4 +46,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
   - Parse the JSON variant data and extract relevant fields into a structured table:
     - **business_id**(string): Unique business identifier
     - **name**(string): Business name
-    - **city **
+    - **city**
