@@ -54,4 +54,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
   - Create the final table **tbl_yelp_businesses** with 100 sample records
   - Verify data integrity with sample queries
 
-**4. Reviews Data Loading****(yelp_reviews.ipynb)**
+**4. Reviews Data Loading** **(yelp_reviews.ipynb)**
