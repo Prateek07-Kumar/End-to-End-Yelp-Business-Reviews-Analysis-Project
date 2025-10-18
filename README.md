@@ -59,3 +59,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
 **Purpose:** Load review data and apply sentiment analysis.
 
 **Process:**
+  - Create a raw variant table for JSON review data from S3
