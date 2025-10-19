@@ -65,4 +65,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
       - **business_id** (string): Foreign key linking to businesses
       - **review_date** (date): Date the review was posted
       - **user_id** (string): Unique user identifier
-      - **review_stars**
+      - **review_stars** (number): Star rating (1-5)
