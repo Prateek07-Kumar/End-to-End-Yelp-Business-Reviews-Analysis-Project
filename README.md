@@ -67,4 +67,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
       - **user_id** (string): Unique user identifier
       - **review_stars** (number): Star rating (1-5)
       - **review_text** (string): Full review text
-      - **sentiments** (string): Sentiment
+      - **sentiments** (string): Sentiment classification from analyze_sentiment() UDF
