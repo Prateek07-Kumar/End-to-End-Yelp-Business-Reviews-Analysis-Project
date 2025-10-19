@@ -63,4 +63,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
   - Use AWS credentials to access the S3 bucket containing review JSON files
   - Parse and extract review fields into a structured format:
       - **business_id** (string): Foreign key linking to businesses
-      - **review_date**
+      - **review_date** (date): Date the review was posted
