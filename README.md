@@ -69,3 +69,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
       - **review_text** (string): Full review text
       - **sentiments** (string): Sentiment classification from **analyze_sentiment()** UDF
   - Create the final table **tbl_yelp_reviews** with 1000 sample records
+  - Apply the sentiment analysis function to all review texts
