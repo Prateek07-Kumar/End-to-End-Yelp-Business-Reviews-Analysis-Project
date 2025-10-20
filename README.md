@@ -71,5 +71,5 @@ Purpose: Load and structure Yelp business data from AWS S3.
   - Create the final table **tbl_yelp_reviews** with 1000 sample records
   - Apply the sentiment analysis function to all review texts
 
-**Analysis Queries**
+**Analysis Queries** (SQL_Yelp_Analysis.ipynb)
 
