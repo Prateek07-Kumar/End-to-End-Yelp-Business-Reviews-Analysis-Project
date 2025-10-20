@@ -78,3 +78,4 @@ The project includes 10 comprehensive SQL analysis queries:
 **Query 1: Business Categories Distribution**
   - Count the number of businesses in each category
   - Uses lateral split to handle comma-separated category values
+  - Helps identify popular business types
