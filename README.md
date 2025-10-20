@@ -75,3 +75,4 @@ Purpose: Load and structure Yelp business data from AWS S3.
 
 The project includes 10 comprehensive SQL analysis queries:
 
+**Query 1: Business Categories Distribution**
