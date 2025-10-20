@@ -73,3 +73,5 @@ Purpose: Load and structure Yelp business data from AWS S3.
 
 **Analysis Queries** **(SQL_Yelp_Analysis.ipynb)**
 
+The project includes 10 comprehensive SQL analysis queries:
+
