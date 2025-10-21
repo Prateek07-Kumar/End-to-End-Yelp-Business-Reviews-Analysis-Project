@@ -80,4 +80,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Uses lateral split to handle comma-separated category values
   - Helps identify popular business types
 
-  Query 2: Top Restaurant Reviewers
+  **Query 2: Top Restaurant Reviewers**
