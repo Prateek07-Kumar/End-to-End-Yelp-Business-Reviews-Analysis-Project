@@ -86,3 +86,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Counts distinct businesses reviewed per user
 
 **Query 3: Most Popular Categories by Review Volume**
+  - Ranks business categories by total number of reviews
