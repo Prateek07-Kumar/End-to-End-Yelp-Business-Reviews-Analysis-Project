@@ -85,4 +85,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Filters businesses by 'restaurant' category
   - Counts distinct businesses reviewed per user
 
-Query 3: Most Popular Categories by Review Volume
+**Query 3: Most Popular Categories by Review Volume**
