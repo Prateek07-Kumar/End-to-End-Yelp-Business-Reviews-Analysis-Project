@@ -88,3 +88,4 @@ The project includes 10 comprehensive SQL analysis queries:
 **Query 3: Most Popular Categories by Review Volume**
   - Ranks business categories by total number of reviews
   - Combines category splitting with review aggregation
+  - Shows which category types receive the most attention
