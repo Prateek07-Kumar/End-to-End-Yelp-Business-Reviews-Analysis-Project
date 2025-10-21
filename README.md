@@ -81,3 +81,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Helps identify popular business types
 
   **Query 2: Top Restaurant Reviewers**
+  - Identifies the 10 users who reviewed the most restaurants 
