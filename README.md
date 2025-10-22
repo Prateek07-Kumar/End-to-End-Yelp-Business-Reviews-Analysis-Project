@@ -90,4 +90,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Combines category splitting with review aggregation
   - Shows which category types receive the most attention
 
-Query 4: Recent Reviews by Business
+**Query 4: Recent Reviews by Business**
