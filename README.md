@@ -89,3 +89,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Ranks business categories by total number of reviews
   - Combines category splitting with review aggregation
   - Shows which category types receive the most attention
+
+Query 4: Recent Reviews by Business
