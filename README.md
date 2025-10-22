@@ -91,3 +91,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Shows which category types receive the most attention
 
 **Query 4: Recent Reviews by Business**
+  - Retrieves the 3 most recent reviews for each business
