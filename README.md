@@ -94,3 +94,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Retrieves the 3 most recent reviews for each business
   - Uses window functions (ROW_NUMBER) with date partitioning
   - Useful for monitoring current business performance
+    
