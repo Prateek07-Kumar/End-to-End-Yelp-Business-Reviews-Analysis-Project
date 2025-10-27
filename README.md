@@ -101,3 +101,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Helps understand seasonal review patterns
 
 **Query 6: 5-Star Review Percentage**
+  - Calculates the percentage of 5-star reviews for each business
