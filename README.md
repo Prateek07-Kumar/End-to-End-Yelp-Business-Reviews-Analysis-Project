@@ -97,4 +97,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 **Query 5: Peak Review Month**
   - Identifies which month receives the highest review count
-
+  - Aggregates reviews at the monthly level
