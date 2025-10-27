@@ -103,3 +103,4 @@ The project includes 10 comprehensive SQL analysis queries:
 **Query 6: 5-Star Review Percentage**
   - Calculates the percentage of 5-star reviews for each business
   - Uses conditional aggregation (CASE WHEN)
+  - Shows which businesses have the highest customer satisfaction
