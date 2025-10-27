@@ -99,3 +99,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Identifies which month receives the highest review count
   - Aggregates reviews at the monthly level
   - Helps understand seasonal review patterns
+
+Query 6: 5-Star Review Percentage
