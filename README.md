@@ -96,3 +96,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Useful for monitoring current business performance
 
 **Query 5: Peak Review Month**
+  - Identifies which month receives the highest review count
+
