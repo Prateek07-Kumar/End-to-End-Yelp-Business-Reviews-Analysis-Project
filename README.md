@@ -111,3 +111,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Enables city-level competitive analysis
 
 **Query 8: Average Rating for Popular Businesses**
+  - Filters businesses with at least 100 reviews
