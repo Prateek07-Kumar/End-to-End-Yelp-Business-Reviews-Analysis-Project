@@ -112,3 +112,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 **Query 8: Average Rating for Popular Businesses**
   - Filters businesses with at least 100 reviews
+  - Calculates average rating for established businesses
