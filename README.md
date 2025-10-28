@@ -110,4 +110,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Uses the QUALIFY clause for partitioned ranking
   - Enables city-level competitive analysis
 
-Query 8: Average Rating for Popular Businesses
+**Query 8: Average Rating for Popular Businesses**
