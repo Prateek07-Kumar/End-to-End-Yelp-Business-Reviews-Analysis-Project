@@ -105,4 +105,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Uses conditional aggregation (CASE WHEN)
   - Shows which businesses have the highest customer satisfaction
 
-Query 7: Top Businesses by City
+**Query 7: Top Businesses by City**
