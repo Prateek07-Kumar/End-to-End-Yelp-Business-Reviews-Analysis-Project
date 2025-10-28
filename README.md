@@ -109,3 +109,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Ranks the 5 most-reviewed businesses in each city
   - Uses the QUALIFY clause for partitioned ranking
   - Enables city-level competitive analysis
+
+Query 8: Average Rating for Popular Businesses
