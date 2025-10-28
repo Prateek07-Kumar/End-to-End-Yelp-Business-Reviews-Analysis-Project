@@ -106,3 +106,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Shows which businesses have the highest customer satisfaction
 
 **Query 7: Top Businesses by City**
+  - Ranks the 5 most-reviewed businesses in each city
