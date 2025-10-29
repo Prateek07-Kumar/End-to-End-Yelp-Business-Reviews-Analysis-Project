@@ -117,3 +117,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 **Query 9: Top Users and Their Reviews**
   - Lists the top 10 most-reviewed users
+  - Shows all businesses reviewed by these power users
