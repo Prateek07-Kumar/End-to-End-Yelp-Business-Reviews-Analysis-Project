@@ -122,3 +122,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 **Query 10: Top Businesses by Positive Sentiment**
   - Ranks businesses with the most positive sentiment reviews
+  - Uses sentiment classification from the UDF
