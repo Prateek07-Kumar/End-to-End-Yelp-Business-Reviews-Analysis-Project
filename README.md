@@ -114,3 +114,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Filters businesses with at least 100 reviews
   - Calculates average rating for established businesses
   - Focuses on quality metrics for well-reviewed businesses
+
+Query 9: Top Users and Their Reviews
