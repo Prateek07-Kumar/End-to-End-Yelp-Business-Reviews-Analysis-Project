@@ -120,4 +120,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Shows all businesses reviewed by these power users
   - Identifies influential reviewers in the community
 
-Query 10: Top Businesses by Positive Sentiment
+**Query 10: Top Businesses by Positive Sentiment**
