@@ -125,4 +125,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Uses sentiment classification from the UDF
   - Highlights businesses with the best customer satisfaction
 
-Technology Stack
+**Technology Stack**
