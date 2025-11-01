@@ -131,3 +131,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Query Language: SQL
   - Sentiment Analysis: Python (TextBlob library)
   - Data Format: JSON
+  - Notebook Environment: Jupyter
