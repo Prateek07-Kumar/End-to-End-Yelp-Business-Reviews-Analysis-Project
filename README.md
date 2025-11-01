@@ -129,3 +129,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Database: Snowflake (cloud data warehouse)
   - Data Storage: AWS S3
   - Query Language: SQL
+  - Sentiment Analysis: Python (TextBlob library)
