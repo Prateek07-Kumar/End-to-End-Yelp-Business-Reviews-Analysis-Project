@@ -124,3 +124,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Ranks businesses with the most positive sentiment reviews
   - Uses sentiment classification from the UDF
   - Highlights businesses with the best customer satisfaction
+
+Technology Stack
