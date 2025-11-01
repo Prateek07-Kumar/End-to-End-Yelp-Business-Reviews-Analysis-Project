@@ -127,3 +127,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 **Technology Stack**
   - Database: Snowflake (cloud data warehouse)
+  - Data Storage: AWS S3
