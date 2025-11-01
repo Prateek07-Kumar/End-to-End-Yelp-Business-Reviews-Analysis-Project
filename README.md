@@ -126,3 +126,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Highlights businesses with the best customer satisfaction
 
 **Technology Stack**
+  - Database: Snowflake (cloud data warehouse)
