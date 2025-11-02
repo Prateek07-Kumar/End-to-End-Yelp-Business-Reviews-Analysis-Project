@@ -134,18 +134,3 @@ The project includes 10 comprehensive SQL analysis queries:
   - Notebook Environment: Jupyter
 
 ### Data Flow
-
-AWS S3 (Raw JSON)
-    ↓
-Snowflake (Variant Tables)
-    ↓
-Data Parsing & Transformation
-    ↓
-Structured Tables (tbl_yelp_businesses, tbl_yelp_reviews)
-    ↓
-Sentiment Analysis UDF
-    ↓
-SQL Analysis Queries
-    ↓
-Business Insights
-
