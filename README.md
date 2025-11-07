@@ -137,3 +137,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Automated sentiment analysis on review text
   - Efficient handling of large datasets through splitting
   - Scalable cloud-based architecture using Snowflake and S3
+  - Comprehensive business performance metrics
