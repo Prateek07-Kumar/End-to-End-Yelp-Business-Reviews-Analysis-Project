@@ -135,3 +135,4 @@ The project includes 10 comprehensive SQL analysis queries:
 
 ### Key Features
   - Automated sentiment analysis on review text
+  - Efficient handling of large datasets through splitting
