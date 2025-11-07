@@ -138,3 +138,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Efficient handling of large datasets through splitting
   - Scalable cloud-based architecture using Snowflake and S3
   - Comprehensive business performance metrics
+  - User behavior and engagement analysis
+  - City and category-level insights
