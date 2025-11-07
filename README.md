@@ -140,3 +140,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Comprehensive business performance metrics
   - User behavior and engagement analysis
   - City and category-level insights
+  - Sentiment-based business ranking
