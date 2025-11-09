@@ -143,3 +143,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Sentiment-based business ranking
 
 ### Usage
+  Execute split.py to prepare large JSON files for upload
