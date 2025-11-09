@@ -142,4 +142,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - City and category-level insights
   - Sentiment-based business ranking
 
-Usage
+### Usage
