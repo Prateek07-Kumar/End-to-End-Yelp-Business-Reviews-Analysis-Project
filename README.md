@@ -154,4 +154,5 @@ The project includes 10 comprehensive SQL analysis queries:
   - Add time-series analysis for trend forecasting
   - Implement machine learning for review classification
   - Create visualization dashboards
-  - Add business recommendation engine based on sentiment and ratings
+  - Add a business recommendation engine based on sentiment and ratings
+
