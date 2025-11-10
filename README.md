@@ -147,4 +147,4 @@ The project includes 10 comprehensive SQL analysis queries:
   2. Run **yelp_businesses.ipynb** to load business data
   3. Run **yelp_reviews.ipynb** to load reviews and apply sentiment analysis
   4. Execute queries from **SQL_Yelp_Analysis.ipynb** for specific insights
-  5. Modify sample record limits (currently set to 100 for businesses and 1000 for reviews) to scale to full dataset
+  5. Modify sample record limits (currently set to 100 for businesses and 1000 for reviews) to scale to the full dataset
