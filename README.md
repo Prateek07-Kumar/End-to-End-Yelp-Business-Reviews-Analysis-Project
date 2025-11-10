@@ -150,3 +150,4 @@ The project includes 10 comprehensive SQL analysis queries:
   5. Modify sample record limits (currently set to 100 for businesses and 1000 for reviews) to scale to the full dataset
 
 ### Future Enhancements
+  - Extend analysis to full dataset (remove record limits)
