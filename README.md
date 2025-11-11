@@ -156,3 +156,4 @@ The project includes 10 comprehensive SQL analysis queries:
   - Create visualization dashboards
   - Add a business recommendation engine based on sentiment and ratings
   - Perform competitive analysis by category and location
+    
